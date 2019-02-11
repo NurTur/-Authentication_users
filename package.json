@@ -17,6 +17,7 @@
     "mongoose": "^5.4.11"
   },
   "devDependencies": {
+    "bcrypt": "^3.0.4",
     "dotenv": "^6.2.0",
     "express-session": "^1.15.6",
     "nodemon": "^1.18.10",
